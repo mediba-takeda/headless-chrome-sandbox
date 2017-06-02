@@ -1,0 +1,13 @@
+{
+  "name": "headless-chrome-sandbox",
+  "version": "0.0.1",
+  "description": "headless chrome sample with timepro",
+  "main": "index.js",
+  "author": "[mediba] Satoshi Takeda <takeda@mediba.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-remote-interface": "^0.22.0",
+    "lighthouse": "^1.6.5",
+    "minimist": "^1.2.0"
+  }
+}
