@@ -3,7 +3,7 @@ const chrome = require('chrome-remote-interface')
 const argv = require('minimist')(process.argv.slice(2))
 const file = require('fs')
 
-const url = 'http://192.168.1.58/XGweb/login.asp'
+const url = 'https://google.com'
 const userAgent = argv.userAgent
 const format = argv.format === 'jpeg' ? 'jpeg' : 'png'
 const viewportWidth = argv.viewportWidth || 1440

@@ -8,6 +8,7 @@
   "dependencies": {
     "chrome-remote-interface": "^0.22.0",
     "lighthouse": "^1.6.5",
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.0",
+    "node-notifier": "^5.1.2"
   }
 }
