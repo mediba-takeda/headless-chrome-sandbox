@@ -3,7 +3,7 @@
 ## Attend Script
 
 ```bash
-$ node lib/attend.js --user=xxxxx --pass=xxxxx [--out --debug]
+$ node lib/attend.v2.js --user=xxxxx --pass=xxxxx [--out --debug]
 ```
 
 ### Arguments
