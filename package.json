@@ -1,12 +1,13 @@
 {
   "name": "headless-chrome-sandbox",
   "version": "0.0.1",
-  "description": "headless chrome sample with timepro",
+  "description": "headless chrome sandbox",
   "main": "index.js",
   "author": "[mediba] Satoshi Takeda <takeda@mediba.jp>",
   "license": "MIT",
   "dependencies": {
     "minimist": "^1.2.0",
-    "node-notifier": "^5.1.2"
+    "node-notifier": "^5.1.2",
+    "puppeteer": "^0.9.0"
   }
 }
